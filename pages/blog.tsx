@@ -31,7 +31,7 @@ export async function getStaticProps() {
 
     return {
       filename,
-      content: fileContents,
+      content: `${fileContents} things`,
     };
   });
   // By returning { props: posts }, the Blog component
