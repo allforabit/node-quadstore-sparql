@@ -1,0 +1,4 @@
+{
+  "debug.javascript.autoAttachFilter": "onlyWithFlag",
+  "gitdoc.enabled": true
+}
